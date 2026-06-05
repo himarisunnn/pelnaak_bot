@@ -1,0 +1,12 @@
+{
+  "name": "pelnak-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for pelnak",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
